@@ -1,3 +1,4 @@
 #!/bin/sh
 
+echo "farmdrop/sourceversion"
 exit 0
